@@ -1,5 +1,5 @@
 # ASW-HackerNews-React
-Projecte ASW FIB UPC, HackerNews React
+Projecte ASW FIB UPC, HackerNews React Test v1.0
 
 ## Membres de l'equip:
   - Alejandro Gallego
